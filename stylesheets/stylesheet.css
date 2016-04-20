@@ -1,5 +1,5 @@
 .jumbotron {
-  background-color: #4C8B94;
+  background-color: #8AA8AA;
   text-align: center;
   width: 100%;
   color: #D8D4B9;
@@ -13,6 +13,10 @@
   padding: 10px;
 }
 
-.a {
+a {
   color: #D8D4B9;
+}
+
+a:hover {
+  color: #856D41;
 }
