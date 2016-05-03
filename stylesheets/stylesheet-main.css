@@ -1,8 +1,16 @@
 .jumbotron {
-  background-color: #4C8B94;
+  background-color: #007989;
   text-align: center;
   width: 100%;
-  color: #D8D4B9;
+  color: #F17677;
+}
+
+.col-md-6 .content-img {
+  width: 100%;
+}
+
+.body {
+  background-color: #38ACBC;
 }
 
 .col-md-6 h1{
@@ -14,9 +22,9 @@
 }
 
 a {
-  color: #D8D4B9;
+  color: #F17677;
 }
 
 a:hover {
-  color: #856D41;
+  color: #BC7298;
 }

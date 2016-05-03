@@ -1,11 +1,11 @@
 .jumbotron {
-  background-color: #4C8B94;
+  background-color: #007989;
   text-align: center;
   width: 100%;
-  color: #D8D4B9;
+  color: #F17677;
 }
 
-.col-md-6 h1{
+.col-md-12 h1{
   text-align: center;
 }
 
@@ -14,17 +14,17 @@
 }
 
 a {
-  color: #D8D4B9;
+  color: #F17677;
 }
 
 a:hover {
-  color: #856D41;
+  color: #BC7298;
 }
 
 .row a{
-  color: #856D41;
+  color: #F17677;
 }
 
 .row a:hover {
-  color: #D8D4B9;
+  color: #BC7298;
 }
